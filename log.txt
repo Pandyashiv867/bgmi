@@ -1,0 +1,85 @@
+UserID: 5340647660 | Time: 2024-08-27 07:27:04.720718 | Command: /bgmi | Target: 1.1.1.1 | Port: 16474 | Time: 180
+Username: @Unknown_0181
+Target: 1.1.1.1
+Port: 16474
+Time: 180
+
+UserID: 5340647660 | Time: 2024-08-27 08:15:56.498121 | Command: /bgmi | Target: 20.235.93.27 | Port: 16360 | Time: 300
+Username: @Unknown_0181
+Target: 20.235.93.27
+Port: 16360
+Time: 300
+
+UserID: 5340647660 | Time: 2024-08-27 08:21:13.761750 | Command: /bgmi | Target: 20.235.93.27 | Port: 16360 | Time: 300
+Username: @Unknown_0181
+Target: 20.235.93.27
+Port: 16360
+Time: 300
+
+UserID: 5340647660 | Time: 2024-08-27 08:24:33.265797 | Command: /bgmi | Target: 20.235.93.27 | Port: 16360 | Time: 120
+Username: @Unknown_0181
+Target: 20.235.93.27
+Port: 16360
+Time: 120
+
+UserID: 5340647660 | Time: 2024-08-27 08:34:20.632623 | Command: /bgmi | Target: 20.235.51.204 | Port: 28233 | Time: 240
+Username: @Unknown_0181
+Target: 20.235.51.204
+Port: 28233
+Time: 240
+
+UserID: 5340647660 | Time: 2024-08-27 08:36:08.189702 | Command: /bgmi | Target: 20.235.51.204 | Port: 28233 | Time: 240
+UserID: 5340647660 | Time: 2024-08-27 08:36:38.224873 | Command: /bgmi | Target: 20.235.51.204 | Port: 28233 | Time: 240
+Username: @Unknown_0181
+Target: 20.235.51.204
+Port: 28233
+Time: 240
+
+UserID: -1002164813199 | Time: 2024-08-27 09:12:41.639386 | Command: /bgmi | Target: 20.235.51.181 | Port: 28692 | Time: 240
+Username: UserID: -1002164813199
+Target: 20.235.51.181
+Port: 28692
+Time: 240
+
+UserID: 5340647660 | Time: 2024-08-27 09:13:35.631073 | Command: /bgmi | Target: 20.235.51.204 | Port: 28233 | Time: 240
+Username: @Unknown_0181
+Target: 20.235.51.204
+Port: 28233
+Time: 240
+
+UserID: 5340647660 | Time: 2024-08-27 09:16:43.504538 | Command: /bgmi | Target: 20.235.51.204 | Port: 28233 | Time: 240
+Username: @Unknown_0181
+Target: 20.235.51.204
+Port: 28233
+Time: 240
+
+UserID: 5340647660 | Time: 2024-08-27 09:17:38.010078 | Command: /bgmi | Target: 20.235.51.204 | Port: 28233 | Time: 240
+Username: @Unknown_0181
+Target: 20.235.51.204
+Port: 28233
+Time: 240
+
+UserID: 5340647660 | Time: 2024-08-27 09:21:42.839213 | Command: /bgmi | Target: 20.235.51.204 | Port: 28233 | Time: 600
+Username: @Unknown_0181
+Target: 20.235.51.204
+Port: 28233
+Time: 600
+
+UserID: -1002164813199 | Time: 2024-08-27 09:24:33.975562 | Command: /bgmi | Target: 20.235.51.204 | Port: 28233 | Time: 240
+Username: UserID: -1002164813199
+Target: 20.235.51.204
+Port: 28233
+Time: 240
+
+UserID: 5340647660 | Time: 2024-08-27 09:29:01.167473 | Command: /bgmi | Target: 20.235.51.204 | Port: 28233 | Time: 180
+Username: @Unknown_0181
+Target: 20.235.51.204
+Port: 28233
+Time: 180
+
+UserID: -1002164813199 | Time: 2024-08-27 09:32:20.277866 | Command: /bgmi | Target: 20.235.51.204 | Port: 28233 | Time: 240
+Username: UserID: -1002164813199
+Target: 20.235.51.204
+Port: 28233
+Time: 240
+
